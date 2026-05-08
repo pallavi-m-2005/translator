@@ -10,7 +10,7 @@ langs_dict = GoogleTranslator().get_supported_languages(as_dict=True)
 
 def main():
     st.image("Purple Illustrative Lavender Desktop Wallpaper.png")
-    st.title(" PragyanAI - VVIET Workshop: Audio Hub")
+    st.title("Yo helloooo!")
     
     audio_bytes = audio_recorder(text="Click to record", neutral_color="#6aa36f")
     
